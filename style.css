@@ -1,5 +1,4 @@
-html,
-body {
+html, body {
   margin: 0;
   font-family: Arial, sans-serif;
   background: #222;
@@ -149,7 +148,6 @@ button {
   height: 40px;
   background: white;
 }
-
 
 .red {
   background: radial-gradient(circle at 30% 30%, #ff7b7b, #d60000);
